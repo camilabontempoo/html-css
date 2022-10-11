@@ -1,0 +1,32 @@
+body{
+    text-align:center;
+    margin: 0 auto;
+    width:800px;
+    font-size: Verdana;
+}
+p{
+  font-size: 18px;
+  text-align: center;
+  font-family:Arial, Helvetica, sans-serif
+}
+img{
+    height:400px;
+}
+a{
+ padding: 7px 10px;
+ background-color: rgb(20, 231, 20);
+ border-radius:15px;
+ color:white;
+ text-decoration:none;
+ font-weight:bold;
+ }
+ div{
+    margin:50px;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.274);   
+ }
+ span{
+    font-weight:bold;
+ }
+ h3{
+    font-size:20px;
+ }
