@@ -1,0 +1,32 @@
+body{
+    background-color: blanchedalmond;
+    margin:100px 300px 300px 100px;
+}
+div{
+    background-color: white;
+    border-radius:50px;
+}
+footer{
+    background-color: white;
+    text-align:center;
+    padding:20px;
+    font-size:20px;
+}
+h1{
+   font-size:100px;
+   margin:30px;
+   color:coral;
+   font-weight:bold;
+}
+h2{
+    color:darksalmon;
+}
+a{
+    text-decoration: none;
+    font-weight:bold;
+    color:coral;
+    font-size:20px;
+}
+ul{
+    font-size: 20px;
+}
