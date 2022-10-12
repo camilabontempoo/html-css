@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(245, 227, 206);
+    margin:0 auto;
+    width:800px;
+    text-align: center;
+    
+}
+
+.logo{
+    width:200px;
+    height:180px;
+    margin-bottom:30px;
+}
+
+
+.secao{
+    border-bottom: 2px solid rgb(109, 22, 22);
+    
+}
+img{
+    width:800px;
+    height:400px;
+}
+nav{
+    margin-bottom:50px;
+}
+
+a{
+    color:white;
+    margin:10px;
+    font-size:20px;    
+}
+
+h1{
+    font-size:40px;
+    font-family:'Times New Roman';
+}
+
+h2{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 28px;
+    color:orange;
+    font-weight:normal;
+}
+
+.secao-destaque{
+    background-color: orange;
+    padding-top:15px;
+    padding-bottom:15px;
+    color:white;
+}
+
+.secao-destaque h2{
+    color: rgb(250, 248, 244);
+    
+    
+}
+.secao-destaque img{
+    width:600px;
+}
+
+
+.secao-destaque p{
+    font-size:20px;
+}
+h3{
+    font-size:25px;
+    font-family:'Franklin Gothic Medium';
+}
+span{
+    font-weight:bold;
+}
+.secao-contato p{
+font-size:18px;
+}
